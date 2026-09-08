@@ -27,7 +27,7 @@ This is going to be deployed to Github. Hence, the pages need to be static. To d
 npm run build
 ```
 
-You can check that the application was build successfully by running:
+You can check that the application was built successfully by running:
 
 ```bash
 npx serve ./dist
